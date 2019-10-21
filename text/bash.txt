@@ -1,0 +1,2 @@
+for n in {01..14}; do mkdir "ch$n"; done
+for n in {01..14}; do touch "ch$n/info.txt"; done
