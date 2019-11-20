@@ -1,0 +1,3 @@
+https://www.baeldung.com/java-executor-service-tutorial
+https://stackoverflow.com/questions/24473796/java-define-a-timeout-for-callable-within-a-executorcompletionservice
+
