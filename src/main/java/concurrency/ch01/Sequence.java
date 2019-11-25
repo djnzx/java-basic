@@ -1,5 +1,8 @@
 package concurrency.ch01;
 
+import net.jcip.annotations.NotThreadSafe;
+
+@NotThreadSafe
 public class Sequence {
 
   private int value = 0;
