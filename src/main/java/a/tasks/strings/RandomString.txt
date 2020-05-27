@@ -1,0 +1,20 @@
+1. write a function (method in class) which will generate
+   a random string from letters in the range ['A'..'Z', 'a'..'z']
+   by specifying the desired length
+
+2. write a test for that class
+   - to verify whether all the letters belong to the required range
+   - to verify that the resulted string is not null
+   - to verify that the resulted string has a valid length
+
+3. generate a string of length 30 containing random small letters
+4. generate a string of length 25 containing random capital letters
+5. generate a string of length 35 containing random mixed capital + small letters
+6. generate a string of length 20 containing only vowels small letters
+7. generate a string of length 20 containing only consonants small letters
+8. generate a string of length 20 containing only vowels capital letters
+9. generate a string of length 20 containing only consonants capital letters
+10. generate a string of length 20 containing only consonants capital and small letters
+11. split given string into capital and small letters
+12. split given string into vowel and consonant letters
+13. split given string into vowel small, vowel capital, consonant small and consonant capital letters

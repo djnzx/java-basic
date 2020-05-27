@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.alexr</groupId>
-    <artifactId>java-concurrency-goetz</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>java-basic</artifactId>
+    <version>2019.12.31</version>
 
     <build>
         <plugins>
@@ -20,14 +20,5 @@
             </plugin>
         </plugins>
     </build>
-
-    <dependencies>
-        <dependency>
-            <groupId>net.jcip</groupId>
-            <artifactId>jcip-annotations</artifactId>
-            <version>1.0</version>
-            <scope>compile</scope>
-        </dependency>
-    </dependencies>
 
 </project>
