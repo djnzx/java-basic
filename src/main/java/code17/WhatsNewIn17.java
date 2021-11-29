@@ -17,11 +17,13 @@ public class WhatsNewIn17 {
 
   /** switch */
   Integer m2(String s) {
-    return switch (s) {
+    int x = switch (s) {
       case "a" -> 1;
       case "b" -> 2;
       default -> -1;
     };
+
+    return x;
   }
 
   /** strings */
